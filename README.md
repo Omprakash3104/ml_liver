@@ -4,17 +4,17 @@ The coexistence of liver diseases poses significant clinical challenges, requiri
 
 # Libraries used:
 
-scikit-learn
-GridSearchCV
-preprocessing
-model_selection
-metrics
-imblearn
-pandas
+scikit-learn,
+GridSearchCV,
+preprocessing,
+model_selection,
+metrics,
+imblearn,
+pandas,
 numpy
 
 # Algorithms used:
 
-Logistic Regression
-Decision Tree classifier
+Logistic Regression,
+Decision Tree classifier,
 Random forest classifier
